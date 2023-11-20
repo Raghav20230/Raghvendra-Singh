@@ -1,7 +1,8 @@
 https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif
 <h1 align="center">Hi 👋, I'm Raghvendra Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Raghav20230/Raghvendra-Singh/assets/147702713/e12737c6-1f03-4ada-85f4-e2ef11ee61aa)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav20230&label=Profile%20views&color=0e75b6&style=flat" alt="raghav20230" /> </p>
 
